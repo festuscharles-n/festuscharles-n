@@ -1,5 +1,4 @@
-# 👨‍💻 Wizard of Server Sorcery || Master of Serververse || Stealthily optimizing performance and vanishing bugs || Follower of the great WEB3 path
-
+# 👨‍💻 Software Engineer || Backend Developer || Web3 DEV || Hardware Embedded System Engineer
 ## 🚀 About Me
 Hello there! 👋 I'm Festus Charles, a passionate software developer, backend engineer, and hardware embedded system enthusiast. I love building innovative solutions that bridge the gap between software and hardware.
 
